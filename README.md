@@ -21,7 +21,7 @@ Aims to become a professional Python backend-developer. I am interested in the d
 - Ability to work with **SQL** (PostgreSQL)
 - Understanding of **HTTP** at a fundamental level
 - Knowledge of automated testing
-- Work expirience with **Flask**, **Pytest**, **Bootstrap5**
+- Work expirience with **Flask**, **Pytest**, **Bootstrap5**, **Poetry**, **flake8**
 - Knowledge of **Python**, basic knowledge of **HTML**, **CSS**
 
 ### Social links:

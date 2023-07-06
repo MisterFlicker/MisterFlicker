@@ -21,7 +21,7 @@ During the study of the Hexlet course, 3 projects were completed available for r
 Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and am not going to be limited to one programming language.
 
 ### Key skills:
-- Ability to work with **Linux** command line
+- Ability to work with **Linux** command line and **Git**
 - Ability to work with **SQL** (PostgreSQL)
 - Understanding of **HTTP** at a fundamental level
 - Knowledge of automated testing

@@ -6,7 +6,7 @@
 Master's degree in electrochemistry
 
 ### Additional Education
-Full course of Python backend-developer on **Hexlet**.
+Full course of Python backend-developer on [Hexlet](https://ru.hexlet.io/).
 
 ### Work expirience
 Process engineer in chemical company for 3 years. Job responsibilities included, among other things, the analysis of large amounts of data and the optimisation of work with data.

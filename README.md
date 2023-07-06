@@ -2,21 +2,21 @@
 
 Currently in search of work Python backend-developer.
 
-# Higher Education
+### Higher Education
 Master's degree in electrochemistry
 
-# Additional Education
+### Additional Education
 Full course of Python backend-developer on Hexlet.
 
-# Work expirience
+### Work expirience
 Process engineer in chemical company. Job responsibilities included, among other things, the analysis of large amounts of data and the optimisation of work with data.
 
 During the study of the Hexlet course, 3 projects were completed available for review on this github. Have experience writing a bot in telegram.
 
-# About me
+### About me
 Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and am not going to be limited to one programming language.
 
-# Key skills:
+### Key skills:
 - Ability to work with Linux command line
 - Ability to work with SQL (PostgreSQL)
 - Understanding of HTTP at a fundamental level
@@ -24,7 +24,7 @@ Aims to become a professional Python backend-developer. I am interested in the d
 - Work expirience with Flask, Pytest, Bootstrap5
 - Knowledge of Python, basic knowledge of HTML, CSS
 
-#Social links:
+### Social links:
 - https://t.me/mister_flicker
 - lutecequantum@gmail.com
 

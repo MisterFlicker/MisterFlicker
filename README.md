@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrey 👋
 
-🔎 **Currently in search of work Python backend-developer.** 🔍
+🔎 **Currently in search of work Python backend-developer** 🔍
 
 ### Higher Education
 Master's degree in electrochemistry

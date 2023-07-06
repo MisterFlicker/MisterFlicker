@@ -13,9 +13,9 @@ Process engineer in chemical company. Job responsibilities included, among other
 
 Have experience writing a bot in telegram.
 During the study of the Hexlet course, 3 projects were completed available for review on this github:
-[Mind Games](https://github.com/MisterFlicker/python-project-49)
-[Difference Generator](https://github.com/MisterFlicker/python-project-50)
-[Page Analyzer](https://github.com/MisterFlicker/python-project-83)
+- [Mind Games](https://github.com/MisterFlicker/python-project-49)
+- [Difference Generator](https://github.com/MisterFlicker/python-project-50)
+- [Page Analyzer](https://github.com/MisterFlicker/python-project-83)
 
 ### About me
 Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and am not going to be limited to one programming language.

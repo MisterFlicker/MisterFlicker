@@ -3,7 +3,7 @@
 🔎 **Currently in search of work Python backend-developer** 🔍
 
 ### Higher Education
-Master's degree in electrochemistry
+Master's degree in Technology of electrochemical processes.
 
 ### Additional Education
 Full course of Python backend-developer on [Hexlet](https://ru.hexlet.io/).

@@ -24,9 +24,12 @@ Aims to become a professional Python backend-developer. I am interested in the d
 - Ability to work with **Linux** command line and **Git**
 - Ability to work with **SQL** (PostgreSQL)
 - Understanding of **HTTP** at a fundamental level
+- Understanding of principles of OOP
 - Knowledge of automated testing
-- Work expirience with **Flask**, **Pytest**, **Bootstrap5**, **Poetry**, **flake8**
+- Work expirience and linter (flake8)
+- Work expirience with **Flask**, **Pytest**, **Bootstrap5**, **Poetry**
 - Knowledge of **Python**, basic knowledge of **HTML**, **CSS**
+- English level: Upper-Intermediate
 
 ### Social links:
 - https://t.me/mister_flicker

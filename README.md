@@ -18,7 +18,7 @@ During the study of the Hexlet course, 3 projects were completed available for r
 - [Page Analyzer](https://github.com/MisterFlicker/python-project-83)
 
 ### About me
-Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and am not going to be limited to one programming language.
+Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and big data and I am not going to be limited to one programming language.
 
 ### Key skills:
 - Ability to work with **Linux** command line and **Git**

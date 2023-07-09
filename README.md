@@ -9,7 +9,7 @@ Master's degree in Technology of electrochemical processes.
 Full course of Python backend-developer on [Hexlet](https://ru.hexlet.io/).
 
 ### Work expirience
-Process engineer in chemical company for 3 years. Job responsibilities included, among other things, the analysis of large amounts of data and the optimisation of work with data.
+Process engineer in chemical company RusVinyl for 3 years. Job responsibilities included, among other things, the analysis of large amounts of data and the optimisation of work with data.
 
 Have experience writing a bot in telegram.  
 During the study of the Hexlet course, 3 projects were completed available for review on this github:

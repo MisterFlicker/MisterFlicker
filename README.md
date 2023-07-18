@@ -27,7 +27,7 @@ Aims to become a professional Python backend-developer. I am interested in the d
 - Understanding of principles of OOP
 - Knowledge of automated testing
 - Work expirience with linter (flake8). Adherence to the code style
-- Work expirience with **Flask**, **Pytest**, **Bootstrap5**, **Poetry**
+- Work expirience with **Flask**, **Django**, **Pytest**, **Bootstrap5**, **Poetry**
 - Knowledge of **Python**, basic knowledge of **HTML**, **CSS**
 - English level: Upper-Intermediate
 

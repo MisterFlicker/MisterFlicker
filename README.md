@@ -17,6 +17,9 @@ During the study of the Hexlet course, 3 projects were completed available for r
 - [Difference Generator](https://github.com/MisterFlicker/python-project-50)
 - [Page Analyzer](https://github.com/MisterFlicker/python-project-83)
 
+Other projects:
+- [Hammer_test](https://github.com/MisterFlicker/hammer_test) - simulation of authorization and referral program system.
+
 ### About me
 Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and big data and I am not going to be limited to one programming language.
 

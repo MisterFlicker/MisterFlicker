@@ -19,6 +19,7 @@ During the study of the Hexlet course, 3 projects were completed available for r
 
 Other projects:
 - [Hammer_test](https://github.com/MisterFlicker/hammer_test) - simulation of authorization and referral program system.
+- [the_click](https://github.com/MisterFlicker/the_click) - advanced clicker with the ability to play back a recorded sequence of clicks.
 
 ### About me
 Aims to become a professional Python backend-developer. I am interested in the direction of neural networks and big data and I am not going to be limited to one programming language.

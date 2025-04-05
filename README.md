@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrey 👋
 
-🔎 **Currently in search of work Python backend-developer** 🔍
+🔎 **QA Engineer with some Python skills** 🔍
 
 ### Higher Education
 Master's degree in Technology of electrochemical processes.
